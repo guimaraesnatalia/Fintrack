@@ -1,0 +1,15 @@
+a{
+    background-color: #22577A;
+    color: white;
+    border-radius: 10%;
+    text-decoration: none;
+    padding: 3px;
+    font-size: x-large;
+}
+a:hover{
+    background-color: white;
+    color: #22577A
+}
+div{
+    margin: 15px
+}
